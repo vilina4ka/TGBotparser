@@ -1,0 +1,12 @@
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/bin/Release/net6.0/ProcessingLibrary.deps.json
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/bin/Release/net6.0/ProcessingLibrary.dll
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/bin/Release/net6.0/ProcessingLibrary.pdb
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.csproj.AssemblyReference.cache
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.AssemblyInfoInputs.cache
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.AssemblyInfo.cs
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.csproj.CoreCompileInputs.cache
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.dll
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/refint/ProcessingLibrary.dll
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ProcessingLibrary.pdb
+/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/ProcessingLibrary/obj/Release/net6.0/ref/ProcessingLibrary.dll

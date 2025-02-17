@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xtb9qUvKF30hf7kuK8cFZdBXd8wvyQxx6zRm8kyHc8ZqODDaPtIAkbWcNo3s0SUx0lZC0Rl9u3gYf6lE4o3SWw==",
+  "success": true,
+  "projectFilePath": "/Users/vilinaolhovskaya/Projects/CsvJsonTgBot6V/CsvJsonTgBot6V/CsvJsonTgBot6V.csproj",
+  "expectedPackageFiles": [
+    "/Users/vilinaolhovskaya/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/vilinaolhovskaya/.nuget/packages/telegram.bot/19.0.0/telegram.bot.19.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
